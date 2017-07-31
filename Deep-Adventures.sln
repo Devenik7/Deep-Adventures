@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{C306A5A9-1DE4-47AC-7D2B-2D4E7E781268}") = "Deep-Adventures", "Assembly-UnityScript.unityproj", "{2598C42C-640C-4B95-4DBB-8A37F7C773DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2598C42C-640C-4B95-4DBB-8A37F7C773DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2598C42C-640C-4B95-4DBB-8A37F7C773DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2598C42C-640C-4B95-4DBB-8A37F7C773DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2598C42C-640C-4B95-4DBB-8A37F7C773DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
